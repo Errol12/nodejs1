@@ -1,0 +1,19 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "description": "https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e\r 1.Download s3 folder\r 2.Read data from mongodb for following record\r 3.Async-Hooks in nodejs\r 4.GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Errol12/nodejs1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Errol12/nodejs1/issues"
+  },
+  "homepage": "https://github.com/Errol12/nodejs1#readme"
+}
